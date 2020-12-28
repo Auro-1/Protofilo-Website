@@ -1,0 +1,27 @@
+ .body { 
+ font-family: sans-serif;
+ }
+ h1 {
+  font-size: 1.5em;
+  }
+.right{
+width: 50% ;
+float: right;
+}
+.name { 
+color: #0000ff;
+}
+ .img_side {
+width: 75%;
+border-radius: 10px 10px 10px 10px;
+}
+.lo{
+text-decoration: none;
+}
+.bg{
+color: white;
+background-color: black;
+height: 70px;
+padding-top: 35px;
+
+}
